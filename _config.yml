@@ -3,8 +3,8 @@ title: My Blog
 SEOTitle: Jacky的博客 | My Blog
 header-img: img/post-bg-desk.jpg
 email: 1126651826@qq.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, Jacky的博客, iOS, Apple, iPhone"
+description: "一个人，一座城，没有你的剧本，不完整的人生."
+keyword: "Blog, Jacky的博客, vue, front, html, css, javascript"
 url: "http://jacky010.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Jacky010/Jacky010.github.io.git" # you code repository
@@ -61,13 +61,13 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: false               #是否开启Gitalk评论
   clientID:                             #生成的clientID
-  clientSecret:     #生成的clientSecret
+  clientSecret:               #生成的clientSecret
   repo: Jacky010.github.io    #仓库名称
-  owner: Jacky010    #github用户名
+  owner: Jacky010             #github用户名
   admin: Jacky010
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: true   #是否启用类似FB的阴影遮罩
 
 
 # 统计
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "GitHub",
+        href: "http://https://github.com/Jacky010"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Email",
+        href: "https://mail.qq.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "CCDN",
+        href: "https://www.csdn.net/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Vue Developer",
+        href: "https://cn.vuejs.org/"
     }
 ]
