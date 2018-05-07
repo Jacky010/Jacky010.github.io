@@ -36,11 +36,11 @@ tags:
   p.sayHello();
 ```
 
-[pic1 icon](http://f.cl.ly/items/1l0a290P3f0C3s111f0z/03-4.png)
+![pic1 icon](http://f.cl.ly/items/1l0a290P3f0C3s111f0z/03-4.png)
 
 原型的三角关系(初级)：
 
-[pic2 icon](http://f.cl.ly/items/151s2V3c3l300i1z1A1y/001.png)
+![pic2 icon](http://f.cl.ly/items/151s2V3c3l300i1z1A1y/001.png)
 
 ### 原型的使用
 1. 使用对象的动态特性给原型对象添加成员
@@ -144,7 +144,7 @@ tags:
 ```
 原型三角关系：
 
-[pic3 icon](http://f.cl.ly/items/2d0n0O1w1y3e1r0P033e/002.png)
+![pic3 icon](http://f.cl.ly/items/2d0n0O1w1y3e1r0P033e/002.png)
 
 ### 构造函数属性相关的问题 
 
