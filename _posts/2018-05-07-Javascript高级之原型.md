@@ -3,7 +3,7 @@ layout:     post
 title:      Javascript高级语法
 subtitle:   原型
 date:       2018-05-07
-author:     BY Jacky
+author:     BY Jacky 
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
