@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      从一道网易面试题浅谈 Tagged Pointer
-subtitle:   浅谈 Tagged Pointer
-date:       2017-12-26
-author:     BY
+title:      Javascript高级语法
+subtitle:   原型
+date:       2018-05-07
+author:     BY
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
