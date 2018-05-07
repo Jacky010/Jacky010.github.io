@@ -3,7 +3,7 @@ layout:     post
 title:      Javascript高级语法
 subtitle:   创建对象的方式、构造函数
 date:       2018-05-03
-author:     BY
+author:     BY Jacky 
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
