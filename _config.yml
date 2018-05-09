@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "GitHub",
-        href: "http://https://github.com/Jacky010"
+        href: "https://github.com/Jacky010"
     },{
         title: "Email",
         href: "https://mail.qq.com/"
