@@ -57,13 +57,13 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: 
+# disqus_username: jacky010
 
 # Gitalk
 gitalk:
-  enable: false               #是否开启Gitalk评论
-  clientID:                             #生成的clientID
-  clientSecret:               #生成的clientSecret
+  enable: true               #是否开启Gitalk评论
+  clientID: 9789176b2e8e36191a3b    #生成的clientID
+  clientSecret: 5c6fbfd5fcf53d405cf35ade868b441c0f540435        #生成的clientSecret
   repo: Jacky010.github.io    #仓库名称
   owner: Jacky010             #github用户名
   admin: Jacky010
