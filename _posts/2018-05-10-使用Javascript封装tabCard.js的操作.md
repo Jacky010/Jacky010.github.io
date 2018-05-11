@@ -67,11 +67,11 @@ tags:
       
       // 自动切换
       autoToggle: function(){
-        var index = -1;
+        var index = 0;
         var that = this;
         var toggle = function(){
           index++;
-          if(index > 3){
+          if(index == that.tabMenus.length){
             index = 0;
           }
           that.changeStyle(that.tabMenus[index]);
@@ -212,7 +212,7 @@ ul {
 
 * 沙箱
 
-与外界个觉得一个环境，外界无法修改该环境内的任何信息，沙箱内的东西单独属于一个世界。
+与外界隔绝的一个环境，外界无法修改该环境内的任何信息，沙箱内的东西单独属于一个世界。
 
 
 ```
