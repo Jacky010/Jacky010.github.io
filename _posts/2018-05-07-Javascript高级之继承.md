@@ -77,14 +77,14 @@ tags:
   p.sayHello();
   //p.sayHi(); // 替换之后，sayHi方法不复存在
   
-  //p对象继承了原型对象（x对象）
-  //注：使用替换原型的方式实现继承的时候，原有原型中的成员就会丢失
+  // p对象继承了原型对象（x对象）
+  // 注：使用替换原型的方式实现继承的时候，原有原型中的成员就会丢失
 ```
 
 * 利用混入的方式给原型对象添加成员
 
 ```
-  function() Person(name, age){
+  function Person(name, age){
     this.name = name;
     this.age = age;
   }
@@ -274,8 +274,8 @@ tags:
   var p = new Person();
   
   console.log( 1 + p); // 124
-  //在对象参与运算的时候，默认的会先去调用对象的valueOf方法；若valueOf获取到的值，无法进行运算，就去调用p的toString方法
-  //最终做的就是字符串拼接的工作
+  // 在对象参与运算的时候，默认的会先去调用对象的valueOf方法；若valueOf获取到的值，无法进行运算，就去调用p的toString方法
+  // 最终做的就是字符串拼接的工作
 ```
 
 5 __proto__
