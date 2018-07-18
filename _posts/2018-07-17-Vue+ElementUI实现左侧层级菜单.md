@@ -453,7 +453,7 @@ unique-opened：保持一个子菜单的展开
 
 #### 效果图
 
-![Mou icon](https://cl.ly/0Q0v3g1C2y1d)
+![Mou icon](http://f.cl.ly/items/1H1o3J1p3t241c470q3u/icon.png)
 
 ### 总结
 这个组件不算怎么难，只要想明白其中的道道，实现起来还是很简单的，如果以后项目是通过从后台请求来的数据，那就可以把data里面的menuData设置为空数组
