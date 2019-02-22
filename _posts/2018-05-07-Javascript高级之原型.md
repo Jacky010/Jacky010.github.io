@@ -101,7 +101,7 @@ tags:
     brand: 'jeep';
   }
   
-  // ar为引用类型
+  // car为引用类型
   Person.prototype.car = car;
   
   var p = new Person();
