@@ -72,7 +72,7 @@ tags:
     }
   }
   
-  person.Prototype = x;
+  Person.prototype = x;
   var p = new Person('张三', 18);
   p.sayHello();
   //p.sayHi(); // 替换之后，sayHi方法不复存在
